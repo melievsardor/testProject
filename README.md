@@ -1,4 +1,4 @@
-# soliq_test
+# flutter test project
 
 A new Flutter project.
 
